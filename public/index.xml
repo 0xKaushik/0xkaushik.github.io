@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>0xkaushik.sec</title>
+    <link>http://localhost:1313/</link>
+    <description>Recent content on 0xkaushik.sec</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 16 Jan 2025 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Embarking on a Journey in Cybersecurity: A Red Teamer&#39;s Perspective</title>
+      <link>http://localhost:1313/posts/first-post/</link>
+      <pubDate>Thu, 16 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/first-post/</guid>
+      <description>&lt;h1 id=&#34;introduction&#34;&gt;Introduction&lt;/h1&gt;&#xA;&lt;p&gt;As a cybersecurity professional, I have always been intrigued by the endless possibilities in the field of ethical hacking and adversarial simulation. With a Bachelor’s degree in Cyber Security and hands-on experience in penetration testing, vulnerability assessment, and red teaming, I have come to realize that cybersecurity is more than just protecting systems—it’s about staying one step ahead of adversaries and anticipating their every move.&lt;/p&gt;&#xA;&lt;p&gt;This blog serves as a platform where I’ll share my experiences, knowledge, and insights in the rapidly evolving world of cybersecurity, with a focus on red teaming, adversarial simulations, penetration testing, and more. My goal is to provide valuable resources and learning materials for both seasoned professionals and aspiring ethical hackers.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
